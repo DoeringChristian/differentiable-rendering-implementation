@@ -1,0 +1,7 @@
+largesteps==0.2.1
+matplotlib==3.7.1
+mitsuba==3.2.1
+numpy==1.24.2
+torch==1.13.1
+tqdm==4.65.0
+trimesh==3.20.2
